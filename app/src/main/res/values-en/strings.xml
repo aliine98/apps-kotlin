@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My apps</string>
+    <string name="add_counter">Adds up to click counter</string>
+    <string name="title">Number of clicks:</string>
+    <string name="goto_imc">Go to \"calculate BMI\"</string>
+    <string name="back">Back</string>
+    <string name="calculate_BMI">Calculate BMI:</string>
+    <string name="weight_kg">Weight (Kilos)</string>
+    <string name="height_m">Height (Meters)</string>
+    <string name="calculate">Calculate</string>
+</resources>

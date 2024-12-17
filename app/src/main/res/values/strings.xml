@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meus apps</string>
+    <string name="title">Quantidade de cliques:</string>
+    <string name="counter" translatable="false">0</string>
+    <string name="add_counter">Aumenta contador de cliques</string>
+    <string name="goto_imc">Vá para \"calcular IMC\"</string>
+    <string name="back">Voltar</string>
+    <string name="calculate_BMI">Calcular IMC:</string>
+    <string name="weight_kg">Peso em quilos</string>
+    <string name="height_m">Altura em metros</string>
+    <string name="calculate">Calcular</string>
+</resources>
